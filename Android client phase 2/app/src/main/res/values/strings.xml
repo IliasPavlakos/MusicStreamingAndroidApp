@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicStreamingApp</string>
+    <string name="brokers_unreachable">Can\'t reach server :(</string>
+    <string name="albumart">Album Art</string>
+    <string name="timeless">--:--</string>
+
+</resources>

@@ -1,0 +1,11 @@
+Copy-Paste this to each broker's program arguments:
+
+
+	1 5001 192.168.1.2 2 5002 192.168.1.2 3 5003 192.168.1.2
+
+
+Change the IP address to your computer's IP
+The syntax should be like this without any other symbols:
+Replace the IP with your computer's IP address
+
+		1 5001 IP 2 5002 IP 3 5003 IP
